@@ -54,7 +54,7 @@ div{
     margin-left:50px;
     border-top: none;
     border-right: none;
-    border-left: 10px #FFFFFF;
+    border-left-width: 10px;
     /* padding-left: 10px; */
 
 }
@@ -65,7 +65,7 @@ div{
     margin-right:50px;
     border-top: none;
     border-left: none;
-    border-right: 10px #FFFFFF;
+    border-right-width: 10px;
 
 }
 
@@ -75,7 +75,7 @@ div{
     margin-left:50px;
     border-top: none;
     border-right: none;
-    border-left: 10px #FFFFFF;
+    border-left-width: 10px;
 
 }
 
@@ -94,7 +94,7 @@ div{
     margin-right:50px;
     border-top: none;
     border-left: none;
-    border-right: 10px;
+    border-right-width: 10px;
 }
 
 span{
